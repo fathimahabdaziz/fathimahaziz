@@ -1,5 +1,3 @@
-# fathimahaziz
-Computer Science graduate | Data analytics, dashboards &amp; data-driven systems
 # Hi, I’m Nur Fathimah 👋
 
 🎓 Computer Science graduate from Universiti Kebangsaan Malaysia (UKM)  
