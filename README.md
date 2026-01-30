@@ -27,22 +27,22 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ---
 
-## 📌 Featured Projects
+## 🧷 Featured Projects
 
-### 🔹 Credit Transfer Similarity System
+### ▪️ Credit Transfer Similarity System
 Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.  
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
-➡️ *Internship project at Faculty of Information Science and Technology, UKM*
+--> *Internship project at Faculty of Information Science and Technology, UKM*
 
-### 🔹 Data Analytics & Visualization Dashboard
+### ▪️ Data Analytics & Visualization Dashboard
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
 **Tech:** Power BI, SQL, Data Modeling
 
-### 🔹 Garment Order Tracking System
+### ▪️ Garment Order Tracking System
 A real-world order tracking system developed for a garment business to monitor order status across departments.  
 **Tech:** PHP, MySQL, HTML, CSS
 
-### 🔹 IoT Smart System Projects
+### ▪️ IoT Smart System Projects
 IoT-based systems for monitoring and automation using sensors and cloud integration.  
 **Tech:** Arduino, ESP32, AWS IoT
 
