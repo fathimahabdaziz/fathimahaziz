@@ -30,6 +30,8 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 ## 🧷 Featured Projects
 
 ### ▪️ Credit Transfer Similarity System
+(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)
+
 Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.  
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
 --> *Internship project at Faculty of Information Science and Technology, UKM*
