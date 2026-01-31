@@ -30,9 +30,7 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 ## 🧷 Featured Projects
 
 ### ▪️ Credit Transfer Similarity System
-(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)
-
-Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.  
+Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
 --> *Internship project at Faculty of Information Science and Technology, UKM*
 
@@ -40,7 +38,7 @@ Automated similarity matching system to support diploma-to-degree credit transfe
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
 
 1. Project Title: Executive Retail Sales & Profitability Dashboard<br>
-(https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)
+(https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
 **Tech:** SQL Server (T-SQL), Power BI, DAX
 
 ### ▪️ Garment Order Tracking System
