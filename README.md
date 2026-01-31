@@ -38,7 +38,10 @@ Automated similarity matching system to support diploma-to-degree credit transfe
 
 ### ▪️ Data Analytics & Visualization Dashboard
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
-**Tech:** Power BI, SQL, Data Modeling
+
+1. Project Title: Executive Retail Sales & Profitability Dashboard<br>
+(https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)
+**Tech:** SQL Server (T-SQL), Power BI, DAX
 
 ### ▪️ Garment Order Tracking System
 A real-world order tracking system developed for a garment business to monitor order status across departments.  
