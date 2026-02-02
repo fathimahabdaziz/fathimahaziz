@@ -41,6 +41,10 @@ Data analysis and visualization projects using Power BI to uncover trends and in
 (https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
 **Tech:** SQL Server (T-SQL), Power BI, DAX
 
+2. Project Title: Sales Performance Overview<br>
+(https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
+**Tech:** Kaggle, Power BI, DAX
+
 ### ▪️ Garment Order Tracking System
 A real-world order tracking system developed for a garment business to monitor order status across departments.  
 **Tech:** PHP, MySQL, HTML, CSS
