@@ -29,6 +29,11 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ## 🧷 Featured Projects
 
+### ▪ Garment Production Management System (Live)
+Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.
+**Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages
+--> *Sole developer and maintainer · code private (client system)*
+
 ### ▪️ Credit Transfer Similarity System
 Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
@@ -44,10 +49,6 @@ Data analysis and visualization projects using Power BI to uncover trends and in
 2. Project Title: Sales Performance Overview<br>
 (https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
 **Tech:** Kaggle, Power BI, DAX
-
-### ▪️ Garment Order Tracking System
-A real-world order tracking system developed for a garment business to monitor order status across departments.  
-**Tech:** PHP, MySQL, HTML, CSS
 
 ### ▪️ IoT Smart System Projects
 IoT-based systems for monitoring and automation using sensors and cloud integration.  
