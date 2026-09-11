@@ -30,7 +30,7 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 ## 🧷 Featured Projects
 
 ### ▪ Garment Production Management System (Live)
-Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.
+Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.<br>
 **Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages
 --> *Sole developer and maintainer · code private (client system)*
 
