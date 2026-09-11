@@ -39,6 +39,7 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ### ▪ Garment Production Management System (Live)
 Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.<br>
+(https://github.com/fathimahabdaziz/Garment-Production-Management-System)<br>
 **Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages<br>
 --> *Sole developer and maintainer · code private (client system)*
 
