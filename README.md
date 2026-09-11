@@ -9,21 +9,29 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ## 🔧 Skills
 
-**Data & Analytics**
-- Python, SQL  
-- Data Cleaning & Analysis  
-- Similarity Matching (Cosine Similarity, BERT Analysis, Jaccard Similarity)  
-- Power BI (Microsoft Certified)
+**Languages**
+- Python
+- SQL
+- T-SQL
+- DAX
+- JavaScript
+- Java
+- PHP
+- HTML/CSS
 
-**Tools & Technologies**
-- Power BI, Google Colab  
-- AWS (IoT Core, Lambda – exposure)  
-- Git & GitHub  
+**Databases & Cloud**
+- PostgreSQL (Supabase)
+- SQL Server (SSMS)
+- AWS
+- Cloudflare Pages & Workers
 
-**Development**
-- PHP, HTML, CSS  
-- Flutter (Dashboard UI)  
-- MySQL  
+**Data & Analytic**
+- Power BI
+- Power Query
+- DAX modelling
+- Pandas, NumPy
+- Azure OCR, Tesseract OCR, BERT / NLP similarity analysis
+
 
 ---
 
@@ -31,13 +39,13 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ### ▪ Garment Production Management System (Live)
 Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.<br>
-**Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages
+**Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages<br>
 --> *Sole developer and maintainer · code private (client system)*
 
 ### ▪️ Credit Transfer Similarity System
 Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
---> *Internship project at Faculty of Information Science and Technology, UKM*
+--> *Internship project at Faculty of Information Science and Technology, UKM · code not published*
 
 ### ▪️ Data Analytics & Visualization Dashboard
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
@@ -57,10 +65,11 @@ IoT-based systems for monitoring and automation using sensors and cloud integrat
 ---
 
 ## 📜 Certifications
-- Microsoft Certified: Data Fundamentals  
-- Microsoft Power BI Data Analyst Associate  
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Power BI Data Analyst Associate 
 
 ---
 
 ## 📫 Contact
+- Email: fathhaziz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nurfathimahabdulaziz
