@@ -12,7 +12,7 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 **Data & Analytics**
 - Python, SQL  
 - Data Cleaning & Analysis  
-- Similarity Matching (Cosine Similarity, Jaccard Similarity)  
+- Similarity Matching (Cosine Similarity, BERT Analysis, Jaccard Similarity)  
 - Power BI (Microsoft Certified)
 
 **Tools & Technologies**
