@@ -1,9 +1,8 @@
 # Hi, I’m Nur Fathimah 👋
 
 🎓 Computer Science graduate from Universiti Kebangsaan Malaysia (UKM)  
-📊 Interested in data analytics, data science, and data-driven systems  
 
-I have hands-on experience working with data analysis, dashboards, similarity matching models, and system development through academic, internship, and personal projects. I enjoy transforming raw data into meaningful insights and building solutions that solve real-world problems.
+I build and maintain a production system that 28 people's wages run through — schema design, row-level security, payroll audit trails — alongside work in data analytics and BI. Experience across OCR and similarity matching, Power BI dashboards, and full-stack system development from requirements through deployment.
 
 ---
 
@@ -18,6 +17,7 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 - Java
 - PHP
 - HTML/CSS
+- PL/pgSQL
 
 **Databases & Cloud**
 - PostgreSQL (Supabase)
@@ -25,12 +25,20 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 - AWS
 - Cloudflare Pages & Workers
 
-**Data & Analytic**
+**Data & Analytics**
 - Power BI
 - Power Query
 - DAX modelling
 - Pandas, NumPy
 - Azure OCR, Tesseract OCR, BERT / NLP similarity analysis
+
+**Tools & Practices**
+- Git/GitHub
+- Versioned SQL migrations
+- Row-Level Security (RLS)
+- Stored procedures
+- REST APIs
+- Technical documentation
 
 
 ---
@@ -39,26 +47,26 @@ I have hands-on experience working with data analysis, dashboards, similarity ma
 
 ### ▪ Garment Production Management System (Live)
 Web system in daily use at a garment factory, replacing paper receipt books and Excel for 28 piece-rate tailors: job sheets, fair workload allocation, garment receiving, and payroll export.<br>
---> [View repository](https://github.com/fathimahabdaziz/Garment-Production-Management-System)<br>
+[View repository](https://github.com/fathimahabdaziz/Garment-Production-Management-System)<br>
 **Tech:** JavaScript, HTML, CSS, Supabase (PostgreSQL), Row-Level Security, Cloudflare Pages<br>
---> *Sole developer and maintainer · code private (client system)*
+*Sole developer and maintainer · private as it's a client's operational system — happy to share access on request*
 
 ### ▪️ Credit Transfer Similarity System
 Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>
---> [View repository](https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
-**Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
---> *Internship project at Faculty of Information Science and Technology, UKM · code not published*
+[View repository](https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
+**Tech:** Python, OCR, BERT, Cosine Similarity, Jaccard Similarity  
+*Internship project at Faculty of Information Science and Technology, UKM · code not published*
 
 ### ▪️ Data Analytics & Visualization Dashboard
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
 
-1. Project Title: Executive Retail Sales & Profitability Dashboard<br>
---> [View repository](https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
+1. Executive Retail Sales & Profitability Dashboard<br>
+[View repository](https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
 **Tech:** SQL Server (T-SQL), Power BI, DAX
 
-2. Project Title: Sales Performance Overview<br>
---> [View repository](https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
-**Tech:** Kaggle, Power BI, DAX
+2. Sales Performance Overview<br>
+[View repository](https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
+**Tech:** Public Dataset, Power BI, DAX
 
 ### ▪️ IoT Smart System Projects
 IoT-based systems for monitoring and automation using sensors and cloud integration.  
