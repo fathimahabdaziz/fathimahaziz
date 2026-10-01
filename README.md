@@ -44,7 +44,8 @@ Web system in daily use at a garment factory, replacing paper receipt books and 
 --> *Sole developer and maintainer · code private (client system)*
 
 ### ▪️ Credit Transfer Similarity System
-Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>(https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
+Automated similarity matching system to support diploma-to-degree credit transfer using OCR and similarity learning techniques.<br>
+--> [View repository](https://github.com/fathimahabdaziz/Diploma-Credit-Transfer-Similarity-Checker)<br>
 **Tech:** Python, OCR, Cosine Similarity, Jaccard Similarity  
 --> *Internship project at Faculty of Information Science and Technology, UKM · code not published*
 
@@ -52,11 +53,11 @@ Automated similarity matching system to support diploma-to-degree credit transfe
 Data analysis and visualization projects using Power BI to uncover trends and insights.  
 
 1. Project Title: Executive Retail Sales & Profitability Dashboard<br>
-(https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
+--> [View repository](https://github.com/fathimahabdaziz/Executive-Retail-Sales-Profitability-Dashboard)<br>
 **Tech:** SQL Server (T-SQL), Power BI, DAX
 
 2. Project Title: Sales Performance Overview<br>
-(https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
+--> [View repository](https://github.com/fathimahabdaziz/Sales-Performance-Overview)<br>
 **Tech:** Kaggle, Power BI, DAX
 
 ### ▪️ IoT Smart System Projects
